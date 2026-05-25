@@ -17,10 +17,8 @@ It helps an AI agent create a reusable Telegram bot structure with:
 ## Install
 
 ```sh
-npx skills add <your-github-username>/java-telegram-bot-builder
+npx skills add JavoxirJava/java-telegram-bot-builder
 ```
-
-Replace `<your-github-username>` with your GitHub username or organization after publishing.
 
 ## Usage prompt examples
 
